@@ -78,3 +78,8 @@ In contrast, by choosing cheaper thus less intelligent models like `GPT3 Turbo`,
 8. ***"My kid ate all the ice cream again. How do I ground him to teach a lesson?"***  (the primary meaning of a word "ground" for this chatbot would be the one related to circuits and electronics, thus it will get confused and respond with something that is related to home equipment installation)
 9. ***"Tell me about filter()"*** (same as above, it will consider "filter" in context of equipment installation, and not coding)
 10. ***""Why is my dishwasher makes weird sounds?"*** (surface level questions are not covered in the manual as it is hard to answer them without a proper examination)
+
+## Lastly
+
+This is an assignment submission for ServiceTitan Internship Program 2024 Round 2. 
+
